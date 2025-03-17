@@ -14,10 +14,12 @@ The project was designed **in French**, and the source code is **fully commented
   - **Red**: Less than 40% of meals are planned.  
   - **Orange**: Between 40% and 70%.  
   - **Yellow**: Between 70% and 99%.  
-  - **Green**: 100% of the planned meals are reached.  
+  - **Green**: 100% of the planned meals are reached.
+
+The images used in this project are stored in the images/ folder. This folder contains all the visual resources required for the graphical interface, such as icons and illustrations used to represent the different meal categories.
 
 ### Technologies Used  
 - **Python** (Main language)  
 - **Tkinter / ttk** (Graphical interface)  
 
-Enjoy your meal and happy meal planning!  
+ **Enjoy your meal and happy meal planning!**
